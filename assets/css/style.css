@@ -518,6 +518,9 @@ p {
   transition: all 0.3s ease-out 0s; }
   .sticky .navbar {
     padding: 10px 0; }
+            .sticky a.navbar-brand {
+              color: blue !important;
+            }
 
 .navbar {
   padding: 25px 0;
